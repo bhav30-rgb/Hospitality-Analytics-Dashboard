@@ -24,3 +24,11 @@ To analyze multi-dimensional hotel performance data (bookings, cancellations, cu
 - **25% of bookings are cancelled** — revenue loss due to cancellations is significant.
 - **Elite and Premium rooms** generate higher revenue than Standard or Presidential classes.
 - Majority of bookings occur on **weekdays (63%)** — weekends remain underutilized.
+
+📁 Folder Structure
+
+Hospitality_Analytics_Project.pbix --> Power BI dashboard
+
+Hospitality analysis.twbx --> Tableau dashboard
+
+Hospitality Analytics.xlsx --> Excel Dashboard
