@@ -32,3 +32,5 @@ Hospitality_Analytics_Project.pbix --> Power BI dashboard
 Hospitality analysis.twbx --> Tableau dashboard
 
 Hospitality Analytics.xlsx --> Excel Dashboard
+
+Hospitality_query_file --> SQL query scripts 
