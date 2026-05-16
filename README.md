@@ -14,10 +14,10 @@ To analyze multi-dimensional hotel performance data (bookings, cancellations, cu
 
 - Excel – Data Modeling, Dashboard creation, pivot tables, slicers
 - Tableau – Interactive visual analytics and customer insights
-- (Coming soon) Power BI – Business-level visuals and DAX-based calculations
-- (Coming soon) SQL – Querying and transforming booking data for insights
+- Power BI – Business-level visuals and DAX-based calculations
+- SQL – Querying and transforming booking data for insights
 
-💡 Key Business Insights
+💡 Key Business Insights 
 
 - **Corporate and OTA** channels contribute the highest revenue.
 - Customers aged **30–60** are the most active bookers.
